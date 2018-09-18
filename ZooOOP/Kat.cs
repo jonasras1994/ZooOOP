@@ -4,7 +4,7 @@
     {
         public Kat()
         {
-        
+            navn = "kattenavn";
         }
     }
 }
